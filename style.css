@@ -9,6 +9,16 @@ html {
   box-sizing: border-box;
 }
 
+.github {
+  font-size: 2rem;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  align-self: flex-end;
+  margin-bottom: 10rem;
+  color: rgb(0, 0, 0);
+}
+
 body {
   font-family: sans-serif;
   color: #333;
